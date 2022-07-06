@@ -1,22 +1,14 @@
 Pembagian Tugas :
 
-Mngodb server (4-6 July)
-Task : Menghubungkan dari mongodb
+Mngodb server (4-5 July)
+Task : Menghubungkan dari mongodb dan relasional data
 Goal : Data sudah harus bisa terbaca 
-Syarif :
+Syarif
 Yuda
-Drop dan preprocecing data (7-9 July)
+Drop dan preprocecing data (6-7 July)
 Task : Menghapus kolum yang tidak terpakai,menghapus missing value, menghapus outliner
 Goal : preprocecing harus clean
 Rahmat
 Boyan
-Pemodelan (10-12 July)
+Pemodelan (8-9 July)
 Mahesa
-
-dsa
-test syarif
-
-toddd
-5555
-
-6969
